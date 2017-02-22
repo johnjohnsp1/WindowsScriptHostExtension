@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<file name = "MessageBox.dll">
+<!-- clsid, dll name, progid,  All are configurable, and don't have to be real -->
+<comClass
+    clsid="{4B72FC46-C543-4101-80DB-7777848DACDC}"
+    threadingModel = "Apartment"
+	progid="MessageBox" />
+	
+</file>
+<!-- Comment, Extra stuff Put some cool stuff to decode here-->
+</assembly>

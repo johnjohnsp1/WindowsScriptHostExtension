@@ -1,0 +1,1 @@
+C:\Windows\SYSWOW64\cscript.exe loader.js
